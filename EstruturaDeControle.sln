@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura_if", "Estrutura_if\Estrutura_if.csproj", "{4BDDEF5D-D7FF-494E-B741-4FFA1A66B6CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estrutura_if", "Estrutura_if\Estrutura_if.csproj", "{4BDDEF5D-D7FF-494E-B741-4FFA1A66B6CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura_if_else", "Estrutura_if_else\Estrutura_if_else.csproj", "{7DDCCADA-549A-48B9-8E77-750E42A1D8BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4BDDEF5D-D7FF-494E-B741-4FFA1A66B6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BDDEF5D-D7FF-494E-B741-4FFA1A66B6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BDDEF5D-D7FF-494E-B741-4FFA1A66B6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DDCCADA-549A-48B9-8E77-750E42A1D8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DDCCADA-549A-48B9-8E77-750E42A1D8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DDCCADA-549A-48B9-8E77-750E42A1D8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DDCCADA-549A-48B9-8E77-750E42A1D8BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
