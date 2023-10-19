@@ -1,5 +1,49 @@
 ﻿Console.WriteLine("## Instrução while ##\n");
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 while (true)
 {
     Console.WriteLine("\nInforme um número inteiro: (para sair digite 999)");
