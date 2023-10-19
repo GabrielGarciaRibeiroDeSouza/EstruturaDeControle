@@ -41,7 +41,7 @@ while (x<5)
         Console.Write($"({x},{y})");
         y++;
     }
-    x++;
+    x++; 
     Console.WriteLine();
 }
 
