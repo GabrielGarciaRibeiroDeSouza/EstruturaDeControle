@@ -1,5 +1,37 @@
 ﻿Console.WriteLine("## Instrução while ##\n");
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Console.WriteLine("\n------------------\n");
+
 int x = 0;
 while (x<5)
 {
