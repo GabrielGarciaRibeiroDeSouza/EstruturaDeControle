@@ -32,6 +32,28 @@ else
 
 Console.WriteLine("\n------------------\n");
 
+while (true)
+{
+    Console.WriteLine("\nInforme um número inteiro: (para sair digite 999)");
+
+    int numeroLoop = Convert.ToInt32(Console.ReadLine());
+
+    if (numeroLoop == 999)
+    {
+        break;
+    }
+    if (numeroLoop % 2 == 0)
+    {
+        Console.WriteLine($"{numeroLoop} é par");
+    }
+    else
+    {
+        Console.WriteLine($"{numeroLoop} é impar");
+    }
+}
+
+Console.WriteLine("\n------------------\n");
+
 int x = 0;
 while (x<5)
 {
@@ -45,68 +67,6 @@ while (x<5)
     Console.WriteLine();
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-while (true)
-{
-    Console.WriteLine("\nInforme um número inteiro: (para sair digite 999)");
-
-    int numero = Convert.ToInt32(Console.ReadLine());
-
-    if (numero == 999)
-    {
-        break;
-    }
-    if (numero % 2 == 0)
-    {
-        Console.WriteLine($"{numero} é par");
-    }
-    else
-    {
-        Console.WriteLine($"{numero} é impar");
-    }
-}
 
 Console.WriteLine("Fim de processamento");
 Console.ReadLine();
